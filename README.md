@@ -42,9 +42,3 @@ Todos os scripts SQL estão na pasta `/scripts`:
 * Identificação de departamentos sem gerente
 * Criação de campo combinado `departamento_localizacao`
 * Contagem de colaboradores por gerente
-
-## 📷 Evidências e Conexões
-
-Capturas de tela das conexões e do ambiente Power BI estão disponíveis na pasta `/imagens`.
-
-Se você quiser, posso criar uma **versão ainda mais enxuta e visual**, estilo README profissional para GitHub, que fique fácil de ler e destacar os resultados do dashboard. Quer que eu faça?
